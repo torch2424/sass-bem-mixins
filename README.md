@@ -1,6 +1,8 @@
 # sass-bem-mixins
 Npm Module for some simple BEM mixins for Sass. Heavily inspired by [CSS Tricks](https://css-tricks.com/snippets/sass/bem-mixins/) and [Grsmto](https://gist.github.com/Grsmto/7791840).
 
+[Github Pages Demo](https://torch2424.github.io/sass-bem-mixins/).
+
 ## Usage
 
 Simply import at the top of a sass file to get going:
