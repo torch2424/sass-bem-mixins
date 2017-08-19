@@ -1,6 +1,6 @@
 {
   "name": "sass-bem-mixins",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "Importable Sass BEM mixins",
   "main": "index.scss",
   "scripts": {
@@ -16,12 +16,12 @@
   "license": "MIT",
   "keywords": [
     "sass",
-		"bem",
+    "bem",
     "mixins",
-		"scss",
-		"css",
+    "scss",
+    "css",
     "style"
-	],
+  ],
   "bugs": {
     "url": "https://github.com/torch2424/sass-bem-mixins/issues"
   },
