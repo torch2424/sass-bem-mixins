@@ -1,7 +1,11 @@
 # sass-bem-mixins
+
+[![npm version](https://badge.fury.io/js/sass-bem-mixins.svg)](https://badge.fury.io/js/sass-bem-mixins)
+
 Npm Module for some simple BEM mixins for Sass. Heavily inspired by [CSS Tricks](https://css-tricks.com/snippets/sass/bem-mixins/) and [Grsmto](https://gist.github.com/Grsmto/7791840).
 
 [Github Pages Demo](https://torch2424.github.io/sass-bem-mixins/).
+[NPM Module Link](https://www.npmjs.com/package/sass-bem-mixins).
 
 ## Usage
 
