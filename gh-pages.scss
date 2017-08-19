@@ -1,0 +1,18 @@
+@import './index';
+
+body {
+  max-width: 700px;
+}
+
+@include block('exampleBlock') {
+  background-color: blue;
+  color: white;
+
+  @include element('exampleElement') {
+    background-color: red;
+
+    @include modifier('modified') {
+      background-color: green;
+    }
+  }
+}

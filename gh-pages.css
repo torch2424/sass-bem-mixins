@@ -1,0 +1,16 @@
+body {
+  max-width: 700px;
+}
+
+.exampleBlock {
+  background-color: blue;
+  color: white;
+}
+
+.exampleBlock__exampleElement, .exampleBlock__exampleElement--modified {
+  background-color: red;
+}
+
+.exampleBlock__exampleElement--modified {
+  background-color: green;
+}

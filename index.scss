@@ -8,7 +8,7 @@ $modifierSeparator: '--';
 // @access public
 // @param {String} $element - Element's name
 @mixin block($element) {
-  &#{$element} {
+  .#{$element} {
     @content;
   }
 }

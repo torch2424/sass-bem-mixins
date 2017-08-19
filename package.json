@@ -5,9 +5,7 @@
   "main": "index.scss",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "gh-pages": "cat index.scss | ./node_modules/node-sass/bin/node-sass \
-    --output-style compressed > index.css && \
-    node gh-pages.js"
+    "gh-pages": "cat gh-pages.scss | ./node_modules/node-sass/bin/node-sass --output-style expanded > gh-pages.css && node gh-pages.js"
   },
   "repository": {
     "type": "git",
