@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "npm run gh-pages",
-    "gh-pages": "cat gh-pages.scss | ./node_modules/node-sass/bin/node-sass --output-style expanded > gh-pages.css && node gh-pages.js"
+    "gh-pages": "cat docs/gh-pages.scss | ./node_modules/node-sass/bin/node-sass --output-style expanded > docs/gh-pages.css && node docs/gh-pages.js"
   },
   "repository": {
     "type": "git",
