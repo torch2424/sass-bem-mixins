@@ -14,6 +14,14 @@
   },
   "author": "Aaron Turner",
   "license": "MIT",
+  "keywords": [
+    "sass",
+		"bem",
+    "mixins",
+		"scss",
+		"css",
+    "style"
+	],
   "bugs": {
     "url": "https://github.com/torch2424/sass-bem-mixins/issues"
   },
