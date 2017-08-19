@@ -7,7 +7,7 @@ Npm Module for some simple BEM mixins for Sass. Heavily inspired by [CSS Tricks]
 
 Simply import at the top of a sass file to get going:
 
-```
+```scss
 @import 'node_modules/sass-bem-mixins/index';
 
 // Other Sass down here...
@@ -17,7 +17,7 @@ Simply import at the top of a sass file to get going:
 
 Please see the [docs](https://github.com/torch2424/sass-bem-mixins/tree/master/docs) folder for a very simple example project that is on the [Github Pages](https://torch2424.github.io/sass-bem-mixins/).
 
-```
+```scss
 @import 'node_modules/sass-bem-mixins/index';
 
 @include block('exampleBlock') {
