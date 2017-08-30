@@ -4,7 +4,7 @@
   "description": "Importable Sass BEM mixins",
   "main": "index.scss",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "echo \"No test specified\" && exit 0",
     "build": "npm run gh-pages",
     "gh-pages": "cat docs/gh-pages.scss | ./node_modules/node-sass/bin/node-sass --output-style expanded > docs/gh-pages.css && node docs/gh-pages.js"
   },
