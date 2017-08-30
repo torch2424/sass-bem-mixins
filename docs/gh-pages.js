@@ -6,4 +6,4 @@ const $ = cheerio.load(fs.readFileSync('./docs/index.html'));
 $('style[amp-custom]').text(`\n${fs.readFileSync('./docs/gh-pages.css')}`);
 
 // Write back to our index.html
-fs.writeFileSync('./docsindex.html', $.html());
+fs.writeFileSync('./docs/index.html', $.html());
