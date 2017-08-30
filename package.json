@@ -1,6 +1,6 @@
 {
   "name": "sass-bem-mixins",
-  "version": "1.1.3",
+  "version": "1.1.4",
   "description": "Importable Sass BEM mixins",
   "main": "index.scss",
   "scripts": {
