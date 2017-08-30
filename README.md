@@ -9,6 +9,12 @@ Npm Module for some simple BEM mixins for Sass. Heavily inspired by [CSS Tricks]
 
 ## Usage
 
+Install to the project:
+
+```
+npm install --save sass-bem-mixins
+```
+
 Simply import at the top of a sass file to get going:
 
 ```scss
