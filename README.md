@@ -18,7 +18,7 @@ npm install --save sass-bem-mixins
 Simply import at the top of a sass file to get going:
 
 ```scss
-@import 'node_modules/sass-bem-mixins/index';
+@import 'node_modules/sass-bem-mixins/index.scss';
 
 // Other Sass down here...
 ```
