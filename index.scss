@@ -2,8 +2,8 @@
 //From: https://css-tricks.com/snippets/sass/bem-mixins/
 //Modifier from this awesome person: https://gist.github.com/Grsmto/7791840
 
-$elementSeparator: '__';
-$modifierSeparator: '--';
+$elementSeparator: '__' !default;
+$modifierSeparator: '--' !default;
 
 // @access public
 // @param {String} $element - Element's name
